@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "main_stations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "NAME": "Вокзал Углич", "CLASS": "rail" }, "geometry": { "type": "Point", "coordinates": [ 4266365.000543488189578, 7864510.575868931598961 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "NAME": "Автостанция Углич", "CLASS": "auto" }, "geometry": { "type": "Point", "coordinates": [ 4266356.9102843683213, 7868692.969513811171055 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "NAME": "Пристань Углич", "CLASS": "river" }, "geometry": { "type": "Point", "coordinates": [ 4266012.186103317886591, 7869586.064741672948003 ] } }
+]
+}
